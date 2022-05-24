@@ -1,4 +1,6 @@
 
+resume at minute: 16:00
+
 Tutorial Link and Ttitle:
 https://www.youtube.com/watch?v=Wn_Kb3MR_cU
 Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto
