@@ -1,0 +1,27 @@
+
+These intructions are to facilitate the seeting up of teh Web 3.0 application Verde.
+
+Preriquisite:	- Must have git installed 
+		- Install NodeJS (npm)
+
+- Download or clone project files from GitHub
+- Using VS Code Terminal ==> cd into the client folder : cd .\client\
+- Go to Vite website: https://vitejs.dev/ ==>  Select "Get Started"
+- Copy the With NPM command: "npm create vite@latest"
+- Return to VS code terminal and run the command
+- Press "Enter" to accept Vite install and configure the project
+- Complete following Prompt:
+* Project name: ./
+* Package name: Bluck
+* Select a framework: react
+* Select a variant: react
+- That conclude the Vite project initialization
+- run this command to install Vite: npm install
+- Go to Tailwindcss site: https://tailwindcss.com/docs/installation 
+* Copy the Tailwindcss installation command: npm install -D tailwindcss 
+- Return to VS code terminal ==> 
+* run the commnad to install Tailwindcss ==> npm install -D tailwindcss
+* run the command to initialize tailwindcss: npx tailwindcss init  (this command is found on the tailwindcss site)
+- If the Tailwindcss config is 
+
+- run this command to run the application: npm run dev
