@@ -1,7 +1,10 @@
 module.exports = {
-  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",],
+  //purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],  // this is the old script, commented out on 4/23/24
   mode: "jit",
-  // darkMode: false, // or 'media' or 'class'
+  //darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
       display: ["Open Sans", "sans-serif"],
@@ -31,5 +34,6 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [require("@tailwindcss/forms")],
-};
+  plugins: [require('@tailwindcss/forms')],
+}
+

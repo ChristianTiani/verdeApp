@@ -13,7 +13,7 @@ For a step-by-step instruction on how to setup and configure Vite and Tailwinf C
 
 - To install Vite: Make sure you are on the client root folder
 >> npm init vite@latest
->> ./  (enter projet name: "./" this specifies the project your are alredy in, ie client)
+>> ./  (enter projet name: "./" this specifies the project your are already in, ie client)
 >> verdeapp (enter package name, we use the project name)
 >> react (choose a framework)
 >> react (choose a variant)

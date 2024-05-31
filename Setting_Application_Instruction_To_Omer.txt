@@ -1,10 +1,11 @@
 
-These intructions are to facilitate the seeting up of teh Web 3.0 application Verde.
+These intructions are to facilitate the seeting up of the Web 3.0 application Verde.
 
 Preriquisite:	- Must have git installed 
 		- Install NodeJS (npm)
 
 - Download or clone project files from GitHub
+- use this video as quick reference: https://www.youtube.com/watch?v=XH69M0qIAis
 - Using VS Code Terminal ==> cd into the client folder : cd .\client\
 - Go to Vite website: https://vitejs.dev/ ==>  Select "Get Started"
 - Copy the With NPM command: "npm create vite@latest"
