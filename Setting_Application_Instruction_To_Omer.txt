@@ -1,7 +1,7 @@
 
-These intructions are to facilitate the seeting up of the Web 3.0 application Verde.
+These instructions are to facilitate the set up of the Web 3.0 application Verde.
 
-Preriquisite:	- Must have git installed 
+Prerequisite:	- Must have git installed 
 		- Install NodeJS (npm)
 
 - Download or clone project files from GitHub
